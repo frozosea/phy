@@ -50,3 +50,21 @@
 
 ## Работа
 
+Работа внешних сил: $E_k=\frac{1}{2}mv^2$
+
+Потенциальная энергия силы притяжения: $E_p=mgh$
+
+Потенциальная энергия силы натяжения: $E_p = \frac{1}{2}kx^2$
+
+Закон сохранения энергии: $A_out+A_in = E_k2-E_k1$
+
+Импульс: $p=mv$
+
+Работа: $w=\int\limits_{\scriptsize a}^{\scriptsize b}{\overrightarrow{F}}{\;\mathrm{d}r}=\frac{mv_B^2}{2}-\frac{mv_A^2}{2} = E_{kA}-E_{kB}=\Delta E_k$
+
+Момент: $\overrightarrow{I} = \int_{t_0}^{t} \overrightarrow{F}dt = \overrightarrow{p} - \overrightarrow{p_0}=m\overrightarrow{v} - m\overrightarrow{v_0}$
+
+Момент постоянной силы: $\overrightarrow{I} = \overrightarrow{F}*(t_2-t_1)$
+
+Момент переменной силы: $\overrightarrow{I} = \int_{t_0}^{t} \overrightarrow{F}(t)dt$
+
