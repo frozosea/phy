@@ -26,3 +26,20 @@
 
 ## Вектора
 
+Скорость в векторном представлении: $\overrightarrow{v} = \frac{d\overrightarrow{r}}{dt} = \frac{dx}{dt}i+\frac{dy}{dt}j+\frac{dz}{dt}k$
+
+Размер скорости: $v = |\overrightarrow{v}| = \sqrt{v^2_x+v^2_y+v^2_z}$
+
+Направление скорости: $cos\alpha = \frac{v_x}{v};cos\beta = \frac{v_y}{v};cos\gamma = \frac{v_z}{v}$
+
+Ускорение: $a = \frac{dv_x}{dt} = \frac{d^2x}{dt^2}$
+
+Размер ускорения: $a = \sqrt{a^2_x+a^2_y+a^2_z}$
+
+Направление ускорения: $cos\alpha = \frac{a_x}{a};cos\beta = \frac{a_y}{a};cos\gamma = \frac{a_z}{a}$
+
+## Прямолинейное движение
+
+
+
+
