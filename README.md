@@ -68,3 +68,12 @@
 
 Момент переменной силы: $\overrightarrow{I} = \int_{t_0}^{t} \overrightarrow{F}(t)dt$
 
+
+## Крутящий момент
+
+Воздействие внешних сил на тело: $M = J \alpha = J \frac{d \omega}{dt}$
+
+Крутящий момент: $M = F*\overrightarrow{r}$
+
+Момент импульса: $L = r*p=rmv=\int{rvpdV} = J \overrightarrow{\omega{}}$
+
